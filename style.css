@@ -1,0 +1,141 @@
+.main{
+    background-color: rgb(30, 47, 18);
+    padding-bottom: 50px;
+    min-height: 100vh;
+}
+.logo{
+    border-radius: 9px;
+}
+.blacko{
+    background-color: black;
+    font-size: 8px;
+}
+.blacko div{
+    color: rgb(200, 255, 34) !important;
+}
+.rad{
+    border-radius: 5px;
+}
+.radr{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.radl{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.md11{
+    width: 50%;
+    color: rgb(200, 255, 34) !important;
+    font-size: 10px;
+    word-spacing: 6px;
+    line-height: 11px;
+}
+.md12{
+    width: 50%;
+    color: rgb(200, 255, 34) !important;
+    font-size: 10px;
+    word-spacing: 6px;
+    line-height: 11px;
+}
+.mh1{
+    color: rgb(200, 255, 34) !important;
+    font-size: 155px;
+    text-align: center;
+}
+.md21{
+    width: 50%;
+    color: rgb(200, 255, 34) !important;
+    font-size: 12px;
+    word-spacing: 6px;
+    line-height: 11px;
+}
+.md31{
+    width: 20%;
+    color: rgb(200, 255, 34) !important;
+    font-size: 12px;
+    word-spacing: 6px;
+    line-height: 11px;
+}
+.md22{
+    width: 50%;
+}
+.md32{
+    width: 80%;
+}
+.md331{
+    width: 100%;
+    border-top: solid 1px rgb(200, 255, 34);
+}
+.bb{
+    border-bottom: solid 1px rgb(200, 255, 34);
+}
+.md221{
+    color: rgb(200, 255, 34) !important;
+    font-size: 16px;
+    word-spacing: 6px;
+    line-height: 20px;
+    letter-spacing: 3px;
+}
+.md222{
+    color: rgb(200, 255, 34) !important;
+    font-size: 9px;
+    font-weight: 100;
+    line-height: 10px;
+}
+.md223{
+    color: rgb(200, 255, 34) !important;
+    font-size: 9px;
+    text-decoration: none;
+}
+.md321{
+    color: rgb(200, 255, 34) !important;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 85px;
+    margin-top: -20px;
+    margin-left: 35px;
+}
+.md323{
+    color: rgb(200, 255, 34) !important;
+    font-size: 9px;
+    text-decoration: none;
+}
+.md3230{
+    text-align: end;
+}
+.sup{
+    color: rgb(200, 255, 34) !important;
+    font-size: 13px;
+    margin-left: 30px;
+}
+.md1{
+    padding-top: 50px;
+}
+@media screen and (max-width: 576px) {
+    .ig{
+        display: none !important;
+    }
+    .md321{
+        font-size: 50px;
+        font-weight: 500;
+        line-height: 65px;
+        margin-top: 6px;
+        margin-left: 35px;
+    }
+    .md32{
+        width: 100%;
+    }
+    .md1{
+        padding-top: 15px;
+    }
+    .md3230{
+        text-align: start;
+    }
+    .md321{
+        margin-left: 0px;
+    }
+    .sup{
+        margin-left: 0% !important;
+    }
+}
